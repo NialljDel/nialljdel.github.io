@@ -1,0 +1,23 @@
+body{
+  padding-top: 100px;
+  background-color: #5da4ee;
+
+}
+
+.starter-template{
+  padding: 40px 50px;
+}
+
+
+.new {
+  background-color: white;
+}
+
+.heading {
+  text-align: center;
+}
+
+
+nav {
+  background-color: #ebcf16;
+}
